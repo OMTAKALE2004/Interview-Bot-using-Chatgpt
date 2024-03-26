@@ -22,7 +22,7 @@ while X<s:
 #print(dict)
 
 
-headers = {"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMjk3MWJiNjItODgyNy00MDdlLTk5MWEtMjU1ZjVhZWU3ZTY3IiwidHlwZSI6ImFwaV90b2tlbiJ9.J08Nu3TJhFvo88oOdyFO21XSgHLbIn6OXywQ6iGctkg"}
+headers = {"Authorization": "Bearer //Api key // "}
 
 url = "https://api.edenai.run/v2/text/chat"
 i=0
