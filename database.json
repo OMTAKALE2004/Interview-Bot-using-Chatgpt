@@ -1,0 +1,38 @@
+[
+  {
+    "role": "user",
+    "message": "My name is AMAN SHARMA and had done Master of Science in Computer Science from Government Polytechnic Kashipur college with a Good \n                    gpa.I have following ['Python (Programming Language)', 'JavaScript (Programming Language)', 'Microsoft Excel', 'Management', 'Java (Programming Language)', 'C (Programming Language)', 'Microsoft SharePoint', 'HyperText Markup Language (HTML)', 'Library Management', 'Customer Service', 'Sales', 'Library', 'Customer Relationship Management', 'Cascading Style Sheets (CSS)', 'WordPress', 'Calculations', 'Workflows', 'Workbench', 'Computer Science'] and I have also done courses like ['Technologically adept a positive attitude willingness and motivation to learn new programs', 'GP Kashipur to manage student admissions semester details course', 'Diploma Computer Science Engineering', 'Java Programming', '40 Hours Course by Slog Solution', 'Python Programming', '40 Hours Course by Slog Solution', 'Basic Computer Course DCA'].\n                        I'm here to give technical Interview and this is my self summary Engineering Hardworking Student seeking employment. Ready to utilize my skills and passion to further the mission of a company. Technologically adept, a positive attitude, willingness and motivation to learn new programs."
+  },
+  {
+    "role": "user",
+    "message": "Let's start the interview."
+  },
+  {
+    "role": "assistant",
+    "message": "Great! Let's begin the technical interview. Can you please elaborate on your experience with Python and how you have applied it in your previous projects or work?"
+  },
+  {
+    "role": "user",
+    "message": "So, I have good experience in Python. I have used Python in many of my projects. So, the two projects which I remember are, the first one is Object Detection and the second one is creating a interview board using ChatGPT. In these two projects, I used Python."
+  },
+  {
+    "role": "assistant",
+    "message": "That's interesting. Could you provide more details about the Object Detection project? What libraries or frameworks did you use in Python for this project, and what was your specific role in the project?"
+  },
+  {
+    "role": "user",
+    "message": "So, talking about object detection project, so the project was to help blind person, so the aim of the project was to create a device which can collect the frames, that is image video while the blind person is walking and then apply the object detection algorithm and code to detect the objects in his surrounding and then prompt him about the surrounding that this object is in left side of you, it is in right side of you or and if he goes closer to any objects then tell him to stop and then when he comes back then tell him to continue, so the libraries I used for this project was tensorflow lite and I was the team lead of that project."
+  },
+  {
+    "role": "assistant",
+    "message": "That sounds like a valuable project. As the team lead, what were some challenges you faced during the implementation of the object detection system for assisting visually impaired individuals, and how did you overcome them?"
+  },
+  {
+    "role": "user",
+    "message": "So the main problems we faced were related to hardware. As we were new to hardware, previously, we have only done the software projects. So it was difficult to get knowledge about the hardware, how it works. So we faced this challenge. And I work on."
+  },
+  {
+    "role": "assistant",
+    "message": "It's common to encounter challenges when venturing into new areas like hardware, especially when transitioning from software projects. How did you navigate and acquire the necessary hardware knowledge to overcome this challenge in the object detection project?"
+  }
+]
